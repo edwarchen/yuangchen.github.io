@@ -9,5 +9,6 @@
 
 main:        
   - title: "CV"
-    url: /files/Resume_cya.pdf
+    url: /files/Resume_cya
+    
 
